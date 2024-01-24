@@ -12,7 +12,6 @@ For MountainBike you should have the following atributes:
 For RoadBike you should have the following atributes:  
 * int: number of passengers
 * int: number of gears
-* String: type of shocks
 * String: type of breaks
 * String: color
 
@@ -65,4 +64,4 @@ Working demo - 2 pts
 
 
 # Submit  
-All the vehicle classes, parents classes, and demo.
+All the vehicle classes, parents class(es), and demo.
