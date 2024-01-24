@@ -56,12 +56,12 @@ Commit at logical intervals.  At least 3 per day.
 Commit messages should have useful descriptions of the work done.  
 
 # Grading  
-Formatted well - 1 pt
-Regular commits - 2 pts
-Useful commit messages - 1 pt
-Working classes for 6 types of vehicles - 2 pts
-Minimal repetition of code - 3 pts
-Working demo - 2 pts
+Formatted well - 1 pt  
+Regular commits - 2 pts  
+Useful commit messages - 1 pt  
+Working classes for 6 types of vehicles - 2 pts  
+Minimal repetition of code - 3 pts  
+Working demo - 2 pts  
 
 
 # Submit  
