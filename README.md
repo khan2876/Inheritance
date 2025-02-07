@@ -51,7 +51,7 @@ Store each of the different vehicles in a single ArrayList.  Show that they are 
 Be sure to format your code properly (1 pt)  
 
 # Commits  
-Commit at logical intervals.  At least 3 per day.  
+Commit at logical intervals.  Each time you create a file, finish a file, or update a file, you must commit that change.  An appropriate commit message should describe what is being saved / what has been changed.  At least 3 per day.  
 Commit messages should have useful descriptions of the work done.  
 
 # Grading  
